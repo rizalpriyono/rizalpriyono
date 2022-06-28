@@ -25,10 +25,10 @@ const MyWorkExperience = () => {
         </div>
         <div style={{ width: 540 }}>
           <div style={{ display: "flex", flexWrap: "wrap" }}>
-            <TextJob>FrontEnd Developer</TextJob>
+            <TextJob>Junior FrontEnd Developer</TextJob>
             <TextProject href="">@EeazyAPI</TextProject>
           </div>
-          <TextTime>[July 2021 - Present]</TextTime>
+          <TextTime>[July 2021 - Juni 2022]</TextTime>
           <div style={{ marginTop: 24 }}>
             <TextBody>
               EazyAPI is an online platform where you can design your REST APIs

@@ -79,7 +79,7 @@ const AboutMe = () => {
             <div style={{ marginLeft: 120 }}>
               <List>
                 <ChevronRight className="icon" />
-                <h3 className="text">Typescript</h3>
+                <h3 className="text">Git</h3>
               </List>
               <List>
                 <ChevronRight className="icon" />
@@ -87,7 +87,7 @@ const AboutMe = () => {
               </List>
               <List>
                 <ChevronRight className="icon" />
-                <h3 className="text">Jest</h3>
+                <h3 className="text">Unit Testing</h3>
               </List>
             </div>
           </LayoutList>
